@@ -1,24 +1,37 @@
-Changes in version: toOrdinal_0.0-6
+# Changes in version: toOrdinal 1.0-0.0
 
-  o Fixing testthat error message for Swedish.
+* Building GitHub-pages website and documentation
 
-Changes in version: toOrdinal_0.0-5
+# Changes in version: toOrdinal_0.0-8
 
-  o Minor fix so English works with 0.
+* Building GitHub-pages website and documentation
 
-Changes in version: toOrdinal_0.0-4
+# Changes in version: toOrdinal_0.0-7
 
-  o Some tweak to make CRAN worthy post R 3.2.1.
+* Adding GERMAN_ALT that adds a 'full-stop' to the end of each non-negative integer.
+* Added '0te' to GERMAN to deal with GERMAN zero.
 
-Changes in version: toOrdinal_0.0-3
+# Changes in version: toOrdinal_0.0-6
 
-  o Added support for Swedish (Jeff Erickson).
+* Fixing testthat error message for Swedish.
 
-Changes in version: toOrdinal_0.0-2
+# Changes in version: toOrdinal_0.0-5
 
-  o Added messages indicating language support.
-  o Added functionality to convert to ordinal word.
+* Minor fix so English works with 0.
 
-Changes in version: toOrdinal_0.0-1
+# Changes in version: toOrdinal_0.0-4
 
-  o Package Released.
+* Some tweak to make CRAN worthy post R 3.2.1.
+
+# Changes in version: toOrdinal_0.0-3
+
+* Added support for Swedish (Thanks Jeff Erickson).
+
+# Changes in version: toOrdinal_0.0-2
+
+* Added messages indicating language support.
+* Added functionality to convert to ordinal word.
+
+# Changes in version: toOrdinal_0.0-1
+
+* Package Released.

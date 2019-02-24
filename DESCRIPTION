@@ -1,7 +1,7 @@
 Package: toOrdinal
-Version: 1.0-0.0
-Date: 2017-7-18
-Title: Cardinal to Ordinal Number Conversion
+Version: 1.1-0.0
+Date: 2019-2-22
+Title: Cardinal to Ordinal Number & Date Conversion
 Description: Language specific cardinal to ordinal number conversion.
 Authors@R: c(person(given=c("Damian", "W."), family="Betebenner", email="dbetebenner@nciea.org", role=c("aut", "cre")),
                 person(given="Andrew", family="Martin", role="ctb"),
@@ -19,9 +19,9 @@ LazyLoad: Yes
 ByteCompile: TRUE
 License: GPL-3
 NeedsCompilation: no
-Packaged: 2017-07-18 16:24:06 UTC; damian
+Packaged: 2019-02-22 14:49:13 UTC; conet
 Author: Damian W. Betebenner [aut, cre],
   Andrew Martin [ctb],
   Jeff Erickson [ctb]
 Repository: CRAN
-Date/Publication: 2017-07-18 22:24:59 UTC
+Date/Publication: 2019-02-24 18:00:02 UTC
